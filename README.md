@@ -22,6 +22,6 @@ git push -u origin main
 git pull
 git add .
 git commit -m "Updating"
-git branch -M main
+git branch -M main 
 git push -u origin main 
 

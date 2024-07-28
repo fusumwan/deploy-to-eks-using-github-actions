@@ -1,7 +1,6 @@
 # deploy-to-eks-using-github-actions
 
 
-
 =============================
 …or create a new repository on the command line
 echo "# cicd-pipeline" >> README.md
